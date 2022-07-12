@@ -62,7 +62,7 @@ import BudgetItemVue from './BudgetItem.vue'
       border: 1px solid rgba(0, 0, 0, 0.4);
       margin: 0 auto;
       padding: 20px;
-      margin-bottom: 50px;
+      margin-bottom: 40px;
    }
    .budget__header {
       border-bottom: 1px solid rgba(0, 0, 0, 0.4);;
